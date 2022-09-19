@@ -1,0 +1,2 @@
+Mean Error = 0.0162
+Mean Absolute Error = 0.0304

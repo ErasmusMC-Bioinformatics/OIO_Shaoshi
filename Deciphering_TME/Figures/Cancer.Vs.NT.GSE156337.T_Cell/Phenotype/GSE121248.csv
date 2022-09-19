@@ -1,0 +1,108 @@
+title,geo_accession,characteristics_ch1.2.tissue,Phenotype
+Tumor (HCC 17T),GSM3428716,Tumor sample,HCC
+Tumor (HCC 32T),GSM3428717,Tumor sample,HCC
+Tumor (HCC 37T),GSM3428718,Tumor sample,HCC
+Tumor (HCC 38T),GSM3428719,Tumor sample,HCC
+Tumor (HCC 40T),GSM3428720,Tumor sample,HCC
+Tumor (HCC 42T),GSM3428721,Tumor sample,HCC
+Tumor (HCC 43T),GSM3428722,Tumor sample,HCC
+Tumor (HCC 44T),GSM3428723,Tumor sample,HCC
+Tumor (HCC 45T),GSM3428724,Tumor sample,HCC
+Tumor (HCC 53T),GSM3428725,Tumor sample,HCC
+Tumor (HCC 54T),GSM3428726,Tumor sample,HCC
+Tumor (HCC 55T),GSM3428727,Tumor sample,HCC
+Tumor (HCC 56T),GSM3428728,Tumor sample,HCC
+Tumor (HCC 60T),GSM3428729,Tumor sample,HCC
+Tumor (HCC 62T),GSM3428730,Tumor sample,HCC
+Tumor (HCC 64T),GSM3428731,Tumor sample,HCC
+Tumor (HCC 65T),GSM3428732,Tumor sample,HCC
+Tumor (HCC 66T),GSM3428733,Tumor sample,HCC
+Tumor (HCC 67T),GSM3428734,Tumor sample,HCC
+Tumor (HCC 68T),GSM3428735,Tumor sample,HCC
+Tumor (HCC 71T),GSM3428736,Tumor sample,HCC
+Tumor (HCC 72T),GSM3428737,Tumor sample,HCC
+Tumor (HCC 73T),GSM3428738,Tumor sample,HCC
+Tumor (HCC 75T),GSM3428739,Tumor sample,HCC
+Tumor (HCC 77T),GSM3428740,Tumor sample,HCC
+Tumor (HCC 78T),GSM3428741,Tumor sample,HCC
+Tumor (HCC 79T),GSM3428742,Tumor sample,HCC
+Tumor (HCC 80T),GSM3428743,Tumor sample,HCC
+Tumor (HCC 81T),GSM3428744,Tumor sample,HCC
+Tumor (HCC 82T),GSM3428745,Tumor sample,HCC
+Tumor (HCC 83T),GSM3428746,Tumor sample,HCC
+Tumor (HCC 84T),GSM3428747,Tumor sample,HCC
+Tumor (HCC 85T),GSM3428748,Tumor sample,HCC
+Tumor (HCC 87T),GSM3428749,Tumor sample,HCC
+Tumor (HCC 88T),GSM3428750,Tumor sample,HCC
+Tumor (HCC 89T),GSM3428751,Tumor sample,HCC
+Tumor (HCC 92T),GSM3428752,Tumor sample,HCC
+Tumor (HCC 93T),GSM3428753,Tumor sample,HCC
+Tumor (HCC 95T),GSM3428754,Tumor sample,HCC
+Tumor (HCC 97T),GSM3428755,Tumor sample,HCC
+Tumor (HCC 101T),GSM3428756,Tumor sample,HCC
+Tumor (HCC 102T),GSM3428757,Tumor sample,HCC
+Tumor (HCC 104T),GSM3428758,Tumor sample,HCC
+Tumor (HCC 106T),GSM3428759,Tumor sample,HCC
+Tumor (HCC 107T),GSM3428760,Tumor sample,HCC
+Tumor (HCC 108T),GSM3428761,Tumor sample,HCC
+Tumor (HCC 126T),GSM3428762,Tumor sample,HCC
+Tumor (HCC 127T),GSM3428763,Tumor sample,HCC
+Tumor (HCC 132T),GSM3428764,Tumor sample,HCC
+Tumor (HCC 133T),GSM3428765,Tumor sample,HCC
+Tumor (HCC 146T),GSM3428766,Tumor sample,HCC
+Tumor (HCC 152T),GSM3428767,Tumor sample,HCC
+Tumor (HCC 154T),GSM3428768,Tumor sample,HCC
+Tumor (HCC 157T),GSM3428769,Tumor sample,HCC
+Tumor (HCC 162T),GSM3428770,Tumor sample,HCC
+Tumor (HCC 165T),GSM3428771,Tumor sample,HCC
+Tumor (HCC 166T),GSM3428772,Tumor sample,HCC
+Tumor (HCC 167T),GSM3428773,Tumor sample,HCC
+Tumor (HCC 168T),GSM3428774,Tumor sample,HCC
+Tumor (HCC 169T),GSM3428775,Tumor sample,HCC
+Tumor (HCC 170T),GSM3428776,Tumor sample,HCC
+Tumor (HCC 171T),GSM3428777,Tumor sample,HCC
+Tumor (HCC 172T),GSM3428778,Tumor sample,HCC
+Tumor (HCC 173T),GSM3428779,Tumor sample,HCC
+Tumor (HCC 174T),GSM3428780,Tumor sample,HCC
+Tumor (HCC 175T),GSM3428781,Tumor sample,HCC
+Tumor (HCC 176T),GSM3428782,Tumor sample,HCC
+Tumor (HCC 177T),GSM3428783,Tumor sample,HCC
+Tumor (HCC 178T),GSM3428784,Tumor sample,HCC
+Tumor (HCC 179T),GSM3428785,Tumor sample,HCC
+Adjacent Normal (HCC 53N),GSM3428786,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 56N),GSM3428787,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 60N),GSM3428788,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 62N),GSM3428789,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 64N),GSM3428790,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 65N),GSM3428791,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 66N),GSM3428792,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 67N),GSM3428793,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 68N),GSM3428794,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 71N),GSM3428795,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 72N),GSM3428796,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 73N),GSM3428797,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 75N),GSM3428798,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 77N),GSM3428799,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 78N),GSM3428800,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 79N),GSM3428801,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 80N),GSM3428802,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 81N),GSM3428803,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 82N),GSM3428804,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 83N),GSM3428805,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 84N),GSM3428806,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 85N),GSM3428807,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 162N),GSM3428808,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 165N),GSM3428809,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 166N),GSM3428810,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 167N),GSM3428811,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 168N),GSM3428812,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 169N),GSM3428813,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 170N),GSM3428814,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 171N),GSM3428815,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 172N),GSM3428816,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 173N),GSM3428817,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 174N),GSM3428818,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 175N),GSM3428819,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 176N),GSM3428820,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 177N),GSM3428821,Adjacent Normal sample,Non-Tumor
+Adjacent Normal (HCC 178N),GSM3428822,Adjacent Normal sample,Non-Tumor

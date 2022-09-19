@@ -1,0 +1,126 @@
+title,geo_accession,source_name_ch1,Phenotype
+normal1,GSM2052455,normal liver biopsy,Normal
+normal2,GSM2052456,normal liver biopsy,Normal
+normal3,GSM2052457,normal liver biopsy,Normal
+normal4,GSM2052458,normal liver biopsy,Normal
+normal5,GSM2052459,normal liver biopsy,Normal
+patient 1 non-tumor,GSM2052460,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 1 tumor,GSM2052461,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 2 non-tumor,GSM2052462,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 2 tumor,GSM2052463,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 3 non-tumor,GSM2052464,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 3 tumor,GSM2052465,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 4 non-tumor,GSM2052466,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 4 tumor,GSM2052467,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 5 non-tumor,GSM2052468,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 5 tumor,GSM2052469,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 6 non-tumor,GSM2052470,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 6 tumor,GSM2052471,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 7 non-tumor,GSM2052472,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 7 tumor,GSM2052473,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 8 non-tumor,GSM2052474,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 8 tumor,GSM2052475,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 9 non-tumor,GSM2052476,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 9 tumor,GSM2052477,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 10 non-tumor,GSM2052478,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 10 tumor,GSM2052479,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 11 non-tumor,GSM2052480,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 11 tumor,GSM2052481,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 12 non-tumor,GSM2052482,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 12 tumor,GSM2052483,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 13 non-tumor,GSM2052484,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 13 tumor,GSM2052485,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 14 non-tumor,GSM2052486,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 14 tumor,GSM2052487,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 15 non-tumor,GSM2052488,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 15 tumor,GSM2052489,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 16 non-tumor,GSM2052490,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 16 tumor,GSM2052491,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 17 non-tumor,GSM2052492,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 17 tumor,GSM2052493,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 18 non-tumor,GSM2052494,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 18 tumor,GSM2052495,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 19 non-tumor,GSM2052496,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 19 tumor,GSM2052497,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 20 non-tumor,GSM2052498,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 20 tumor,GSM2052499,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 21 non-tumor,GSM2052500,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 21 tumor,GSM2052501,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 22 non-tumor,GSM2052502,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 22 tumor,GSM2052503,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 23 non-tumor,GSM2052504,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 23 tumor,GSM2052505,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 24 non-tumor,GSM2052506,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 24 tumor,GSM2052507,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 25 non-tumor,GSM2052508,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 25 tumor,GSM2052509,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 26 non-tumor,GSM2052510,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 26 tumor,GSM2052511,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 27 non-tumor,GSM2052512,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 27 tumor,GSM2052513,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 28 non-tumor,GSM2052514,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 28 tumor,GSM2052515,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 29 non-tumor,GSM2052516,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 29 tumor,GSM2052517,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 30 non-tumor,GSM2052518,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 30 tumor,GSM2052519,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 31 non-tumor,GSM2052520,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 31 tumor,GSM2052521,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 32 non-tumor,GSM2052522,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 32 tumor,GSM2052523,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 33 non-tumor,GSM2052524,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 33 tumor,GSM2052525,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 34 non-tumor,GSM2052526,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 34 tumor,GSM2052527,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 35 non-tumor,GSM2052528,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 35 tumor,GSM2052529,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 36 non-tumor,GSM2052530,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 36 tumor,GSM2052531,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 37 non-tumor,GSM2052532,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 37 tumor,GSM2052533,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 38 non-tumor,GSM2052534,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 38 tumor,GSM2052535,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 39 non-tumor,GSM2052536,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 39 tumor,GSM2052537,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 40 non-tumor,GSM2052538,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 40 tumor,GSM2052539,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 41 non-tumor,GSM2052540,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 41 tumor,GSM2052541,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 42 non-tumor,GSM2052542,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 42 tumor,GSM2052543,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 43 non-tumor,GSM2052544,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 43 tumor,GSM2052545,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 44 non-tumor,GSM2052546,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 44 tumor,GSM2052547,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 45 non-tumor,GSM2052548,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 45 tumor,GSM2052549,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 46 non-tumor,GSM2052550,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 46 tumor,GSM2052551,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 47 non-tumor,GSM2052552,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 47 tumor,GSM2052553,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 48 non-tumor,GSM2052554,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 48 tumor,GSM2052555,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 49 non-tumor,GSM2052556,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 49 tumor,GSM2052557,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 50 non-tumor,GSM2052558,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 50 tumor,GSM2052559,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 51 non-tumor,GSM2052560,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 51 tumor,GSM2052561,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 52 non-tumor,GSM2052562,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 52 tumor,GSM2052563,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 53 non-tumor,GSM2052564,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 53 tumor,GSM2052565,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 54 non-tumor,GSM2052566,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 54 tumor,GSM2052567,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 55 non-tumor,GSM2052568,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 55 tumor,GSM2052569,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 56 non-tumor,GSM2052570,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 56 tumor,GSM2052571,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 57 non-tumor,GSM2052572,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 57 tumor,GSM2052573,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 58 non-tumor,GSM2052574,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 58 tumor,GSM2052575,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 59 non-tumor,GSM2052576,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 59 tumor,GSM2052577,tumor biopsy from hepatocellular carcinoma patient,HCC
+patient 60 non-tumor,GSM2052578,liver parenchyma biopsy from hepatocellular carcinoma patient,Non-Tumor
+patient 60 tumor,GSM2052579,tumor biopsy from hepatocellular carcinoma patient,HCC
