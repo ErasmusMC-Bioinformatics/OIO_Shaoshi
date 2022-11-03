@@ -5,7 +5,9 @@ from TMM import *
 import scanpy as sc
 import os
 
-random_selection_proportion = 0.1 # proportion of randomly selection from atlas
+# proportion of randomly selection from atlas
+# This parameter is not suggested to be very low, which would increase the Poisson effect for the large number of zeros in the scRNA-seq expression matrix.
+random_selection_proportion = 0.1
 
 # Loading Atlas
 adata = sc.read_h5ad('GSE115469.h5ad')
