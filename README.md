@@ -2,6 +2,11 @@
 
 The directory **Deciphering_TME** is for the reproducibility of the paper **Deciphering Tumour Microenvironment of Liver Cancer through Deconvolution of Bulk RNA-seq Data with Single-cell Atlas**
 
+Prepocessed data can be downloaded
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7315791.svg)](https://doi.org/10.5281/zenodo.7315791)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7467268.svg)](https://doi.org/10.5281/zenodo.7467268)
+
 ## Preprocessing
 
 The script
@@ -36,6 +41,14 @@ The script
 **/Deciphering_TME/Preprocess/Pseudobulk_Generator.py**
 
 shows how to generate pseudobulk RNA-seq expression matrix for validation experiments. 
+
+## Estimation of Cell Abundance Through Support Vector Regression
+
+The script in the directory
+
+**SVR_Estimation**
+
+show the work flow to estimate the abundance of a specific cell type in bulk RNA-seq samples with support vector regression and single-cell RNA-seq atlas.
 
 ## Figure Plot
 
